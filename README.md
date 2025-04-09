@@ -51,11 +51,11 @@ mprpc
    |----autobuild.sh        一键编译脚本
 ```
 
-## 编译：
+### 编译
 
 `sh autobuild.sh` 编译后，在bin目录下生成可执行文件
 
-## 运行
+### 运行
 
 启动zookeeper
 
